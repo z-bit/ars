@@ -6,6 +6,6 @@ angular redux store
 * $ cd ars
 * $ ng g c home // for navigtion
 * $ ng g m [justRedux]('./justRedux/README.md') 
-* setup basic routingwith /home as initial pagewhich holds a link to justRedux
+* setup basic routing with /home as initial page which holds a link to justRedux
 
 
