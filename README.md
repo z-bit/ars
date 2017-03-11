@@ -7,7 +7,7 @@ angular redux store
 * separate folder [ts-node](./ts-node/README.md) to explore Redux Principles without Angular
 
 * $ ng g c home // for navigation
-* $ ng g m [justRedux]('./src/app/just-redux/README.md') 
+* $ ng g m [justRedux]('src/app/just-redux/README.md') 
 * setup basic routing with /home as initial page which holds a link to justRedux
 
 
